@@ -1,0 +1,96 @@
+Licence d'utilisation
+
+1) L'Association pour le Traitement Automatique des Langues (ci-après
+dénommée «ATALA»), association à but non lucratif (régie par la loi
+française du 1er juillet 1901), dont le siège social est 45 rue d'Ulm
+75230 PARIS Cedex 5 FRANCE (http://www.atala.org), autorise par le
+présent document, l'utilisation non lucrative et la diffusion non
+lucrative des actes des années 1997 à 2019 (dénommés «ACTES» par la
+suite) des conférences annuelles «Traitement Automatique des Langues
+(TALN) et «Rencontre des Étudiants Chercheurs en Informatique pour le
+Traitement Automatique des Langues» (RÉCITAL) à des fins de recherche
+et d'enseignement aux conditions définies ci-dessous.
+
+2) Les ACTES sont le texte, les images et autres types de contenus
+présents dans les actes des conférences annuelles tels que
+publiés par les organisateurs des conférences au moment de leur tenue;
+il s'agit des conférences :
+
+TALN, du 12 au 13 juin 1997 à Grenoble,
+TALN, du 10 au 12 juin 1998 à Paris,
+TALN, du 10 au 17 juillet 1999 à Cargèse,
+TALN, du 16 au 18 octobre 2000 à Lausanne (Suisse),
+RECITAL, du 16 au 18 octobre 2000 à Lausanne (Suisse),
+TALN, du 2 au 5 juillet 2001 à Tours,
+RECITAL, du 2 au 5 juillet 2001 à Tours,
+TALN, du 24 au 27 juin 2002 à Nancy,
+RECITAL, du 24 au 27 juin 2002 à Nancy,
+TALN, du 11 au 14 juin 2003 à Batz-sur-Mer,
+RECITAL, du 11 au 14 juin 2003 à Batz-sur-Mer,
+TALN, du 19 au 22 avril 2004 à Fès (Maroc),
+RECITAL, du 19 au 22 avril 2004 à Fès (Maroc),
+TALN, du 6 au 10 juin 2005 à Dourdan,
+TALN, du 6 au 10 juin 2005 à Dourdan,
+RECITAL, du 10 au 13 avril 2006 à Leuven (Belgique),
+TALN, du 10 au 13 avril 2006 à Leuven (Belgique),
+RECITAL, du 5 au 8 juin 2007 à Toulouse,
+RÉCITAL, du 5 au 8 juin 2007 à Toulouse,
+TALN, du 9 au 13 juin 2008 à Avignon,
+RÉCITAL, du 9 au 13 juin 2008 à Avignon,
+TALN, du 24 au 26 Juin 2009 à Senlis,
+RÉCITAL, du 24 au 26 Juin 2009 à Senlis,
+TALN, du 19 au 23 juillet 2010 à Montréal,
+RÉCITAL, du 19 au 23 juillet 2010 à Montréal,
+TALN, du 27 juin au 1er juillet 2011 à Montpellier,
+RÉCITAL, du 27 juin au 1er juillet 2011 à Montpellier,
+TALN, du 4 au 8 juin 2012 à Grenoble,
+RÉCITAL, du 4 au 8 juin 2012 à Grenoble,
+TALN, du 17 au 21 juin 2013 aux Sables d'Olonne,
+RÉCITAL, du 17 au 21 juin 2013 aux Sables d'Olonne.
+TALN, du 1er au 4 juillet 2014 à Marseille
+RÉCITAL, du 1er au 4 juillet 2014 à Marseille
+TALN, du 22 au 25 juin 2015 à Caen
+RÉCITAL, du 22 au 25 juin 2015 à Caen
+TALN, du 4 au 8 juillet 2016 à Paris
+RÉCITAL, du 4 au 8 juillet 2016 à Paris
+TALN, du 26 au 30 juin 2017 à Orléans
+RECITAL, du 26 au 30 juin 2017 à Orléans
+TALN, du 14 au 18 mai 2018 à Rennes
+RECITAL, du 14 au 18 mai 2018 à Rennes
+TALN, du 1er au 5 juillet 2019 à Toulouse
+RECITAL, du 1er au 5 juillet 2019 à Toulouse
+
+
+3) L'ATALA cède gratuitement et sans limitation de durée une licence
+et les droits non exclusifs de reproduction, de distribution de
+reproductions, de diffusion, de présentation publique, d'adaptation et
+d'utilisation à des fins de recherche ou d'enseignement des ACTES pour
+une utilisation non-commerciale.
+
+4) L'ATALA conserve tous ses droits, copyrights, droits d'auteur, et
+autres droits de propriété intellectuelle ou patrimoniale afférents
+aux ACTES.
+
+5) Les ACTES peuvent être téléchargés, archivés, envoyés par email ou
+imprimés. Il peut en être fait des copies des citations, des résumés,
+des textes intégraux ou partiels, à condition que les informations
+soient exploitées uniquement pour une utilisation non-commerciale de
+recherche ou d'enseignement. En aucun cas, les ACTES ne pourront être
+utilisé dans des produits en tant que composant ou que base de tout
+autre objet destiné à la vente.
+
+6) Toute diffusion, copie, ou archive des ACTES, qu'elle soit complète
+ou partielle, doit contenir le présent document.
+
+7) Toute diffusion, copie, ou archive des ACTES, qu'elle soit complète
+ou partielle, doit contenir des références bibliographiques au document
+original.
+
+8) L'ATALA n'est en aucun cas responsable des modifications qui
+pourraient être apportées au contenu original des ACTES.
+
+9) Le présent document sera appliqué et interprété conformément à la
+loi de l'État Français.
+
+10) Le présent document comprend 10 articles.
+
